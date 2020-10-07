@@ -6,6 +6,7 @@ let distanceToTheMoon = 384400;
 let milesPerKilometer	= 0.621;
 
 
+
 // 2. Use console.log to print the 'typeof' each variable. Print one item per line.
 console.log(typeof shuttleName);
 console.log(typeof shuttleSpeed);
